@@ -22,6 +22,11 @@ This text is ***really important***.
 ---
 
         this is some code indented 4 times
+## URLS and emails
+
+<https://duckduckgo.com>
+<mymail@mymail.com>
+[Some text to a link](https://duckduckgo.com)
 
 
 
