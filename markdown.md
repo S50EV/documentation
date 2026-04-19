@@ -1,12 +1,12 @@
 # Heading level 1
 ## Heading level 2
 
-To create a line break or new line, end a line with two or more spaces, and then type return.  
+To create a line break or new line, end the line with two or more spaces, and then press return.  
 To view the syntax look at the raw documernt.
 
-I just love **bold text**.
+I love **bold text** and i cannot lie.
 
-Italicized text is the *cat's meow*.
+Italicized text is the *owyeaaah*.
 
 This text is ***really important***.
 
@@ -25,9 +25,7 @@ This text is ***really important***.
 ## URLS and emails
 
 <https://duckduckgo.com>  
-
 <mymail@mymail.com>  
-
 [Some text to a link](https://duckduckgo.com)  
 ## TO-DO
 * images `![]`
